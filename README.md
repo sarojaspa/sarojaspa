@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Santiago 👋</h1>
 
-<h3 align="center">Mechanical Engineer | Data Engineer</h3>
+<h3 align="center">Mechanical Engineer | Aspiring Data Engineer</h3>
 
 - 🔧 Proudly a Mechanical Engineer, always curious about the *why* behind things.
 - 🎓 Currently learning **Data Engineering**, **Machine Learning**, and **Cybersecurity**
