@@ -1,11 +1,17 @@
-### Hi there, I'm Santiago 👋
+<h1 align="center">Hi there, I'm Santiago 👋</h1>
 
-🔧 Mechanical Engineer by training, passionate about understanding the *why* behind every system — now applying that same curiosity to data and cybersecurity.
+<h3 align="center">Mechanical Engineer | Data Engineer</h3>
 
-- 🎓 Several months into learning **Data Engineering** and **Cybersecurity**
+- 🔧 Proudly a Mechanical Engineer, always curious about the *why* behind things.
+- 🎓 Currently learning **Data Engineering**, **Machine Learning**, and **Cybersecurity**
 - 🌱 There's always more to learn
-- ⚙️ Coming from mechanical engineering: I like thinking in systems, processes, and how the pieces connect (whether it's bolts or pipelines)
-- 🗣️ I speak Spanish and English — planning to add another language soon
+- 🗣️ Languages: Spanish, English
+
+<p align="center"> 
+    <a href="https://github.com/sarojaspa" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=msarojaspa&label=Profile%20views&color=0e75b6&style=flat" alt="sarojaspa" /></a> 
+    <a href="https://github.com/sarojaspa" target="blank"><img align="center" src="https://img.shields.io/github/followers/sarojaspa?label=GitHub%20Followers&&style=plastic" alt="GitHub Followers" /></a>
+    <a href="https://github.com/sarojaspa" target="blank"><img align="center" src="https://img.shields.io/github/stars/sarojaspa?label=GitHub%20Stars&style=plastic" alt="GitHub Stars" /></a> 
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -13,8 +19,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -27,7 +37,7 @@
 - 🍳 Cooking
 - 🍖 Barbecue
 
-### 📫 Get in touch
+### 📫 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santi.rojas.p@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-rojas-parra/)
